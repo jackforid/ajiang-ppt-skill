@@ -28,6 +28,10 @@
 创建一个关于[主题]的PPT，[风格]，[页数]页
 ```
 
+## 致谢
+
+本 Skill 的提示词灵感来源于 B 站 UP 主 **[程序员阿江-Relakkes](https://space.bilibili.com/程序员阿江-Relakkes)**，感谢其分享的优质内容。
+
 ## 文件说明
 
 - `skill.md` - Skill 定义文件，包含完整的设计规范和使用指南
