@@ -1,3 +1,8 @@
+---
+name: "ajiang-ppt-skill"
+description: "Generate horizontal swipe web presentations (single HTML file) with WebGL backgrounds, chapter covers, and data layouts. Invoke when user needs magazine-style or Swiss-style web PPT, or mentions 'horizontal swipe deck', 'magazine PPT', 'Swiss Style PPT'."
+---
+
 # ajiang-ppt-skill
 
 横向翻页网页 PPT 生成 Skill，基于 React + Vite + Tailwind CSS v4 + Framer Motion + Lucide React。
